@@ -1,2 +1,2 @@
 ## One of my favorite bunny videos 
-![Watch Me](https://www.youtube.com/watch?v=iZ296NmyKtc)
+![Watch Me](https://youtu.be/iZ296NmyKtc)
