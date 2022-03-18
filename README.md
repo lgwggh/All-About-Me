@@ -4,3 +4,5 @@ My Name is Lily Weirich, and I am a junior here at The University of Missouri. I
 
 **MIZ**
 ![The Collumns](https://github.com/lgwggh/All-About-Me/blob/main/Missouri.jfif)
+
+![Link to next page](https://github.com/lgwggh/All-About-Me/blob/main/page2.md)
